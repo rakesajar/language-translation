@@ -43,7 +43,7 @@ def get_translation(text, source_language, target_language):
 
 # Main App
 """
-# KrisNLP Language Translation
+# Language Translation App
 """
 available_packages = get_available_translation_pairs()
 if st.checkbox("Show available translation pairs"):
